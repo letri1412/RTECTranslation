@@ -43,7 +43,7 @@
 
 四、剪辑
 
-前面要加片头，社区片头文件放这里了，https://github.com/letri1412/RTEDMIntros
+前面要加片头，社区片头文件放[这里](https://github.com/letri1412/RTEDMIntros)了。
 
 然后是视频开头的文本（宋体，左上角，左对齐，小字）：
 
